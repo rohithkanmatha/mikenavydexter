@@ -1,5 +1,5 @@
-[![GitHub license](https://img.shields.io/github/license/Thomas-George-T/A-Tale-of-Two-Cities)](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/LICENSE.md)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/A-Tale-of-Two-Cities.svg?cache=remove)
+[![GitHub license](https://img.shields.io/github/license/rohithkanmatha/mikenavydexter](https://github.com/rohithkanmatha/mikenavydexter/blob/master/LICENSE.md)
+![ViewCount](https://views.whatilearened.today/views/github/rohithkanmatha/A-Tale-of-Two-Cities.svg?cache=remove)
 
 <h1 align="center"> A Tale of Two Cities </h1>
 
@@ -15,9 +15,9 @@ Thomas George Thomas
 
 ### Project Links:
 
-1. **Code:** [Jupyter Notebook](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/Tale_of_Two_Cities_A_Data_Science_Take.ipynb)
-2. **Blog Post:** [Medium Article](https://medium.com/@thomas_george_thomas/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6)
-3. **Report:** [Report](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb)
+1. **Code:** [Jupyter Notebook](https://github.com/rohithkanmatha/A-Tale-of-Two-Cities/blob/master/Tale_of_Two_Cities_A_Data_Science_Take.ipynb)
+2. **Blog Post:** [Medium Article](https://medium.com/@rohithkanmatha/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6)
+3. **Report:** [Report](https://github.com/rohithkanmatha/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb)
 
 # Introduction
 A Tale of Two cities, a novel written by Charles Dickens was set in London and Paris which takes place during the French Revolution. These cities were both happening then and now. A lot has changed over the years and we now take a look at how the cities have grown.
